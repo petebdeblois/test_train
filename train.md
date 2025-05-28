@@ -2,7 +2,7 @@
 
 ---
 
-## 1. \*\*Developer Environment Setup (Windows)
+## 1. **Developer Environment Setup (Windows)**
 
 ### 1.1. Install Windows Terminal
 
