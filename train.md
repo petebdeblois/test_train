@@ -252,6 +252,8 @@ sf project retrieve start --metadata StaticResource:customContext
 
 **Design File (`CoveoCustom1.design`):**
 
+The name in label will be how it is called in the Builder. Remember it or change it
+
 ```xml
 <design:component label="coveo1">
     <design:attribute name="name" label="Name" />
