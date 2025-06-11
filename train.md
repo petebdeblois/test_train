@@ -203,8 +203,9 @@ VS Code generates:
 
 ## 6. **Add and Retrieve a Static Resource**
 
-### 6.1. Create a Static Resource File
+### 6.1. Create a Static Resource File Locally
 
+Create a new file that will be stored on your PC for now. This can be created with a simple notepad. When saving, name it with the extension *.js
 - Example: `customContext.js`
 
 ```js
